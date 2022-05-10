@@ -20,7 +20,7 @@ Hope you like the projects that I have done. Most of these are either course pro
 <table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=snnipetr&show_icons=true&theme=gotham" /></td><td><img src="http://github-readme-streak-stats.herokuapp.com?user=snnipetr&theme=gotham"/></td></tr></table>
 <hr>
 
-[![|Debraj's github activity graph| Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=snnipetr&theme=gotham&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![|Debraj's github activity graph| Reload once if you cannot see this image ](https://gh-readme-activity-graph.herokuapp.com/graph?username=snnipetr&theme=xcode&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <hr>
 
 ######  Thanks a lot [@programmer290399](https://github.com/programmer290399) and also [@itssingh](https://github.com/itssingh) for providing this template.
